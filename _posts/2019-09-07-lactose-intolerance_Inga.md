@@ -11,7 +11,14 @@ tags:
 lastupdated: '2019-09-09'
 ---
 
- 
+# POST URL:
+https://mydnas.github.io/myDNA/
+
+# CONTACT
+inga.patarcic@gmail.com
+https://github.com/IngaPa
+
+<br />
   
 # IDEA 
   
